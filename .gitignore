@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.so
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local GCS storage fallback directory
+.gcs_local/
+backend/.gcs_local/
